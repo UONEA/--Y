@@ -1,0 +1,5 @@
+{
+  "name": "PureLens AI",
+  "description": "一个强大的 AI 工具，利用 Google Gemini 2.5 Flash 和 Veo 去除图片水印并重新合成干净的视频。",
+  "requestFramePermissions": []
+}
